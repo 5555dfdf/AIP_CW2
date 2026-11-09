@@ -1,0 +1,10 @@
+{
+  "audit_manifest.csv": "561365fb9784e76699ece272c3b1a0563d863ff1100fee6d697e619b046230f5",
+  "clean_manifest.csv": "0355ecc1d85eee21f06f53ab346de62756ec78e48111eec8ae12916e8c4cd4d6",
+  "excluded_records.csv": "315188e87fc1390d8386e2f80bee0075dc2d545de6bc784d7f9467662ec1323a",
+  "duplicate_records.csv": "315188e87fc1390d8386e2f80bee0075dc2d545de6bc784d7f9467662ec1323a",
+  "class_mapping.csv": "de4dd15cb6d800257dbf15560489ca27ba306424ae3bdbce798bf107e2a7acc0",
+  "class_counts.csv": "4536558d5bab7c0c4d13ca4b2aa8b2492398f9ab4aa32714a20351e2cd6e7333",
+  "split_counts.csv": "6f9c9b9e6494860988c57d1a5e0ce63d5ac1d616ce8875c5788ad6386c4e289a",
+  "summary.json": "49da8498d2bdb62587b68e5e2c61568281ec8f381ff2b566d398a0abdb486097"
+}

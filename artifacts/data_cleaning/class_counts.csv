@@ -1,0 +1,130 @@
+﻿class_id,split,before,after,excluded,Plant,Disease
+0,train,43,43,0,Apple,apple black rot
+0,val,8,8,0,Apple,apple black rot
+0,test,12,12,0,Apple,apple black rot
+1,train,52,52,0,Apple,apple mosaic virus
+1,val,8,8,0,Apple,apple mosaic virus
+1,test,13,13,0,Apple,apple mosaic virus
+2,train,64,62,2,Apple,apple rust
+2,val,12,12,0,Apple,apple rust
+2,test,22,22,0,Apple,apple rust
+3,train,115,113,2,Apple,apple scab
+3,val,18,18,0,Apple,apple scab
+3,test,35,35,0,Apple,apple scab
+4,train,35,31,4,Banana,banana anthracnose
+4,val,6,6,0,Banana,banana anthracnose
+4,test,9,9,0,Banana,banana anthracnose
+5,train,79,72,7,Banana,banana black leaf streak
+5,val,10,8,2,Banana,banana black leaf streak
+5,test,25,23,2,Banana,banana black leaf streak
+6,train,56,48,8,Banana,banana bunchy top
+6,val,9,6,3,Banana,banana bunchy top
+6,test,13,12,1,Banana,banana bunchy top
+7,train,22,19,3,Banana,banana cigar end rot
+7,val,2,2,0,Banana,banana cigar end rot
+7,test,9,8,1,Banana,banana cigar end rot
+8,train,19,17,2,Banana,banana cordana leaf spot
+8,val,3,2,1,Banana,banana cordana leaf spot
+8,test,8,8,0,Banana,banana cordana leaf spot
+9,train,33,33,0,Banana,banana panama disease
+9,val,6,6,0,Banana,banana panama disease
+9,test,10,10,0,Banana,banana panama disease
+10,train,225,222,3,Citrus,citrus canker
+10,val,33,33,0,Citrus,citrus canker
+10,test,65,64,1,Citrus,citrus canker
+11,train,66,66,0,Citrus,citrus greening disease
+11,val,9,9,0,Citrus,citrus greening disease
+11,test,18,18,0,Citrus,citrus greening disease
+12,train,49,49,0,Corn,corn gray leaf spot
+12,val,10,10,0,Corn,corn gray leaf spot
+12,test,17,17,0,Corn,corn gray leaf spot
+13,train,65,65,0,Corn,corn northern leaf blight
+13,val,9,9,0,Corn,corn northern leaf blight
+13,test,18,18,0,Corn,corn northern leaf blight
+14,train,84,84,0,Corn,corn rust
+14,val,13,13,0,Corn,corn rust
+14,test,23,23,0,Corn,corn rust
+15,train,91,91,0,Corn,corn smut
+15,val,14,14,0,Corn,corn smut
+15,test,26,26,0,Corn,corn smut
+16,train,50,42,8,Potato,potato early blight
+16,val,9,7,2,Potato,potato early blight
+16,test,9,9,0,Potato,potato early blight
+17,train,53,51,2,Potato,potato late blight
+17,val,7,7,0,Potato,potato late blight
+17,test,18,18,0,Potato,potato late blight
+18,train,41,39,2,Soybean,soybean bacterial blight
+18,val,6,5,1,Soybean,soybean bacterial blight
+18,test,14,13,1,Soybean,soybean bacterial blight
+19,train,42,30,12,Soybean,soybean brown spot
+19,val,3,2,1,Soybean,soybean brown spot
+19,test,10,9,1,Soybean,soybean brown spot
+20,train,56,51,5,Soybean,soybean downy mildew
+20,val,6,5,1,Soybean,soybean downy mildew
+20,test,14,13,1,Soybean,soybean downy mildew
+21,train,111,96,15,Soybean,soybean frog eye leaf spot
+21,val,13,12,1,Soybean,soybean frog eye leaf spot
+21,test,29,26,3,Soybean,soybean frog eye leaf spot
+22,train,61,60,1,Soybean,soybean mosaic
+22,val,11,10,1,Soybean,soybean mosaic
+22,test,17,17,0,Soybean,soybean mosaic
+23,train,45,43,2,Soybean,soybean rust
+23,val,7,7,0,Soybean,soybean rust
+23,test,14,14,0,Soybean,soybean rust
+24,train,64,62,2,Tomato,tomato bacterial leaf spot
+24,val,9,8,1,Tomato,tomato bacterial leaf spot
+24,test,17,16,1,Tomato,tomato bacterial leaf spot
+25,train,103,97,6,Tomato,tomato early blight
+25,val,16,16,0,Tomato,tomato early blight
+25,test,34,32,2,Tomato,tomato early blight
+26,train,84,84,0,Tomato,tomato late blight
+26,val,14,14,0,Tomato,tomato late blight
+26,test,19,19,0,Tomato,tomato late blight
+27,train,71,71,0,Tomato,tomato leaf mold
+27,val,13,13,0,Tomato,tomato leaf mold
+27,test,18,18,0,Tomato,tomato leaf mold
+28,train,29,27,2,Tomato,tomato mosaic virus
+28,val,5,4,1,Tomato,tomato mosaic virus
+28,test,9,8,1,Tomato,tomato mosaic virus
+29,train,66,62,4,Tomato,tomato septoria leaf spot
+29,val,13,13,0,Tomato,tomato septoria leaf spot
+29,test,20,18,2,Tomato,tomato septoria leaf spot
+30,train,43,41,2,Tomato,tomato yellow leaf curl virus
+30,val,4,4,0,Tomato,tomato yellow leaf curl virus
+30,test,16,14,2,Tomato,tomato yellow leaf curl virus
+31,train,53,51,2,Wheat,wheat bacterial leaf streak (black chaff)
+31,val,11,10,1,Wheat,wheat bacterial leaf streak (black chaff)
+31,test,19,18,1,Wheat,wheat bacterial leaf streak (black chaff)
+32,train,161,119,42,Wheat,wheat head scab
+32,val,25,19,6,Wheat,wheat head scab
+32,test,44,31,13,Wheat,wheat head scab
+33,train,53,49,4,Wheat,wheat leaf rust
+33,val,7,6,1,Wheat,wheat leaf rust
+33,test,15,14,1,Wheat,wheat leaf rust
+34,train,101,81,20,Wheat,wheat loose smut
+34,val,15,12,3,Wheat,wheat loose smut
+34,test,25,21,4,Wheat,wheat loose smut
+35,train,119,114,5,Wheat,wheat powdery mildew
+35,val,24,24,0,Wheat,wheat powdery mildew
+35,test,35,34,1,Wheat,wheat powdery mildew
+36,train,95,77,18,Wheat,wheat septoria blotch
+36,val,19,15,4,Wheat,wheat septoria blotch
+36,test,28,15,13,Wheat,wheat septoria blotch
+37,train,56,48,8,Wheat,wheat stem rust
+37,val,11,11,0,Wheat,wheat stem rust
+37,test,22,18,4,Wheat,wheat stem rust
+38,train,160,140,20,Wheat,wheat stripe rust
+38,val,25,22,3,Wheat,wheat stripe rust
+38,test,43,36,7,Wheat,wheat stripe rust
+39,train,38,37,1,Zucchini,zucchini bacterial wilt
+39,val,7,7,0,Zucchini,zucchini bacterial wilt
+39,test,12,11,1,Zucchini,zucchini bacterial wilt
+40,train,25,25,0,Zucchini,zucchini downy mildew
+40,val,3,3,0,Zucchini,zucchini downy mildew
+40,test,5,5,0,Zucchini,zucchini downy mildew
+41,train,90,77,13,Zucchini,zucchini powdery mildew
+41,val,16,14,2,Zucchini,zucchini powdery mildew
+41,test,27,24,3,Zucchini,zucchini powdery mildew
+42,train,39,39,0,Zucchini,zucchini yellow mosaic virus
+42,val,6,6,0,Zucchini,zucchini yellow mosaic virus
+42,test,11,11,0,Zucchini,zucchini yellow mosaic virus

@@ -1,0 +1,44 @@
+﻿class_id,Plant,Disease
+0,Apple,apple black rot
+1,Apple,apple mosaic virus
+2,Apple,apple rust
+3,Apple,apple scab
+4,Banana,banana anthracnose
+5,Banana,banana black leaf streak
+6,Banana,banana bunchy top
+7,Banana,banana cigar end rot
+8,Banana,banana cordana leaf spot
+9,Banana,banana panama disease
+10,Citrus,citrus canker
+11,Citrus,citrus greening disease
+12,Corn,corn gray leaf spot
+13,Corn,corn northern leaf blight
+14,Corn,corn rust
+15,Corn,corn smut
+16,Potato,potato early blight
+17,Potato,potato late blight
+18,Soybean,soybean bacterial blight
+19,Soybean,soybean brown spot
+20,Soybean,soybean downy mildew
+21,Soybean,soybean frog eye leaf spot
+22,Soybean,soybean mosaic
+23,Soybean,soybean rust
+24,Tomato,tomato bacterial leaf spot
+25,Tomato,tomato early blight
+26,Tomato,tomato late blight
+27,Tomato,tomato leaf mold
+28,Tomato,tomato mosaic virus
+29,Tomato,tomato septoria leaf spot
+30,Tomato,tomato yellow leaf curl virus
+31,Wheat,wheat bacterial leaf streak (black chaff)
+32,Wheat,wheat head scab
+33,Wheat,wheat leaf rust
+34,Wheat,wheat loose smut
+35,Wheat,wheat powdery mildew
+36,Wheat,wheat septoria blotch
+37,Wheat,wheat stem rust
+38,Wheat,wheat stripe rust
+39,Zucchini,zucchini bacterial wilt
+40,Zucchini,zucchini downy mildew
+41,Zucchini,zucchini powdery mildew
+42,Zucchini,zucchini yellow mosaic virus

@@ -1,0 +1,4 @@
+﻿split,before,after,excluded
+train,3007,2780,227
+val,475,440,35
+test,867,800,67

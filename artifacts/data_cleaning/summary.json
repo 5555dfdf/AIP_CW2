@@ -1,0 +1,33 @@
+{
+  "policy": "exclude_all_members_of_every_exact_duplicate_group",
+  "source_record": "https://zenodo.org/records/17719108",
+  "release_verified": false,
+  "metadata_sha256": "03025e84fd4847e21a8cf1a7690b9c5ba40a933022f973df0a5611ffc0439fd2",
+  "rgb_hash_definition": "PlantSeg-RGB-v1 NUL prefix + big-endian uint64 width,height + row-major RGB bytes; no EXIF transpose",
+  "versions": {
+    "python": "3.11.16",
+    "pandas": "3.0.6",
+    "pillow": "12.3.0"
+  },
+  "hosts": [
+    "apple",
+    "banana",
+    "citrus",
+    "corn",
+    "potato",
+    "soybean",
+    "tomato",
+    "wheat",
+    "zucchini"
+  ],
+  "classes": 43,
+  "before": 4349,
+  "after": 4020,
+  "excluded": 329,
+  "invalid_images": 0,
+  "duplicate_groups": 162,
+  "duplicate_records": 329,
+  "cross_split_groups": 73,
+  "conflicting_label_groups": 34,
+  "near_duplicates_checked": false
+}
